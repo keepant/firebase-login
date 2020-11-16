@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Complete Login.</string>
+    <string name="facebook_app_id">your-facebook-app-id</string>
+    <string name="fb_login_protocol_scheme">fbyour-facebook-app-id</string>
+</resources>
